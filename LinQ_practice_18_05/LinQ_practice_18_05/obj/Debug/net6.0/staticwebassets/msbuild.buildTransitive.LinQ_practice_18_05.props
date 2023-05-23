@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LinQ_practice_18_05.props" />
+</Project>

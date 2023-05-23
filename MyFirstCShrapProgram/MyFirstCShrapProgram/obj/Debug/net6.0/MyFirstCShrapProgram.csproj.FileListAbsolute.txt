@@ -1,0 +1,15 @@
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\bin\Debug\net6.0\MyFirstCShrapProgram.exe
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\bin\Debug\net6.0\MyFirstCShrapProgram.deps.json
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\bin\Debug\net6.0\MyFirstCShrapProgram.runtimeconfig.json
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\bin\Debug\net6.0\MyFirstCShrapProgram.dll
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\bin\Debug\net6.0\MyFirstCShrapProgram.pdb
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.csproj.AssemblyReference.cache
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.AssemblyInfoInputs.cache
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.AssemblyInfo.cs
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.csproj.CoreCompileInputs.cache
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.dll
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\refint\MyFirstCShrapProgram.dll
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.pdb
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\MyFirstCShrapProgram.genruntimeconfig.cache
+C:\Users\Anish Prakash\source\repos\MyFirstCShrapProgram\MyFirstCShrapProgram\obj\Debug\net6.0\ref\MyFirstCShrapProgram.dll

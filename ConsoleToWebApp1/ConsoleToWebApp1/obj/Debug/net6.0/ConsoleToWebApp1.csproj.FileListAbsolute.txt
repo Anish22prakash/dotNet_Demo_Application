@@ -1,0 +1,15 @@
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\bin\Debug\net6.0\ConsoleToWebApp1.exe
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\bin\Debug\net6.0\ConsoleToWebApp1.deps.json
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\bin\Debug\net6.0\ConsoleToWebApp1.runtimeconfig.json
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\bin\Debug\net6.0\ConsoleToWebApp1.dll
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\bin\Debug\net6.0\ConsoleToWebApp1.pdb
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.csproj.AssemblyReference.cache
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.AssemblyInfoInputs.cache
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.AssemblyInfo.cs
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.dll
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\refint\ConsoleToWebApp1.dll
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.pdb
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ConsoleToWebApp1.genruntimeconfig.cache
+C:\Users\Anish Prakash\source\repos\ConsoleToWebApp1\ConsoleToWebApp1\obj\Debug\net6.0\ref\ConsoleToWebApp1.dll
